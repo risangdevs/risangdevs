@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @risangdevs
-- 👀 I’m interested in front-end programming
-- 🌱 I’m currently learning vue.js
-- 💞️ I’m looking to collaborate on project
+- 👀 I’m interested in front-end development in general & UI/UX
+- 🌱 I’m currently learning vue & react
+- 💞️ I’m looking to collaborate on project as an front-end developer
 - 📫 How to reach me risangdevs@gmail.com
 
 <!---
